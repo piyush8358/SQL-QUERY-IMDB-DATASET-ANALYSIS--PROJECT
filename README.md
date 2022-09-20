@@ -41,3 +41,7 @@ sqlite3-> Database
  5. You have to create a DataFrame w.r.t. the SQLite
  6. Data Analysis - Data Manipulation, Data Exploration, Data Cleaning, Data Visualisation
  7. Conclusion at every step
+
+
+# # DEMO VIDEO
+https://user-images.githubusercontent.com/96904569/191244016-1eae35a8-510b-4871-a2a4-079854aec91c.mp4
