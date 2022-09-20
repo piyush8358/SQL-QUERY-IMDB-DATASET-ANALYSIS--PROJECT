@@ -1,11 +1,12 @@
 # SQL-QUERY-IMDB-DATASET-ANALYSIS-PROJECT
 This Project is based on IMDB Dataset Analysis with the help of SQL as well as some Python Libraries 
 
+
 IMDB Data Set Link :
 https://www.kaggle.com/code/priy998/imdb-sqlite/data
 
 
-# Try to Analysis 
+# Try to Analyze
 1. How many are present in the movies table ?
 2. Find out these 3 directors : James Cameron,Luc Besson,John Wo.
 3. Find all the directors with the name starting with the 'Steven'
